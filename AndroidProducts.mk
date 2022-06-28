@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_courbet.mk
+    $(LOCAL_DIR)/xdroid_courbet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_courbet-user \
-    aosp_courbet-userdebug \
-    aosp_courbet-eng
+    xdroid_courbet-user \
+    xdroid_courbet-userdebug \
+    xdroid_courbet-eng
